@@ -1,0 +1,26 @@
+* cb288b3 Agregando boton y parrafoo
+*   8f2d59f resolviendo conflicto de commit
+|\  
+| * dcdbd4a agregando estructura nueva
+* | f168585 Agregando mas texto
+|/  
+*   7ebbb13 resolviendo conflicto merge/main html en somos
+|\  
+| * e5aaeff agregando estructura html
+* | 6c5a4b2 Agregando contenido
+* |   c0abc74 Merge branch 'js'
+|\ \  
+| * | 4af3ec5 creando archivo js variables
+* | | 29a7173 se creó el archivo global de estilos
+| |/  
+|/|   
+* | 8070dc9 Creando pagina somos
+|/  
+* 75bf6ba Ignorando archivos .exe
+* 45b0a27 Se cambió el script
+* 5b2edf3 se creó una clase de estilos
+* 4912954 Se cambió el HTML
+* 6ee958e Creando licensia del repositorio
+* 8c305e4 se agregaron cambios
+* 3d3751c Agregando contenido al readme
+* 2b604b6 Primer commit

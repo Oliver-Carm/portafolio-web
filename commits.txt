@@ -1,0 +1,116 @@
+commit cb288b34aea926cbaa90a2616ef4a8fce2d09a6d
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 16:07:18 2023 -0600
+
+    Agregando boton y parrafoo
+
+commit 8f2d59f5a2ddec6ee5a6095c1ccfd868f3186477
+Merge: f168585 dcdbd4a
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 16:02:02 2023 -0600
+
+    resolviendo conflicto de commit
+
+commit f1685856068d2c62eebd9678a2dd2ad659405742
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 15:45:10 2023 -0600
+
+    Agregando mas texto
+
+commit dcdbd4a3889db1f947c69f7e99b5212fcf42fc5d
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 15:45:10 2023 -0600
+
+    agregando estructura nueva
+
+commit 7ebbb139454d40bf3ec4477121af9fdbba3ad89d
+Merge: 6c5a4b2 e5aaeff
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 15:31:10 2023 -0600
+
+    resolviendo conflicto merge/main html en somos
+
+commit e5aaeff7b230372db309f8e0c12349ac0a80b6ae
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 15:25:25 2023 -0600
+
+    agregando estructura html
+
+commit 6c5a4b2640944115c4b56079feed632dbb8a9c16
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 15:22:11 2023 -0600
+
+    Agregando contenido
+
+commit c0abc745de65649d708496412d6f9c8564918beb
+Merge: 29a7173 4af3ec5
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 15:11:17 2023 -0600
+
+    Merge branch 'js'
+
+commit 4af3ec51b8934fe0c0ea8a90e8aaea2409a6cfa3
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 15:03:58 2023 -0600
+
+    creando archivo js variables
+
+commit 29a71738c421009fba991540322350322ab20961
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 14:58:10 2023 -0600
+
+    se creó el archivo global de estilos
+
+commit 8070dc9227dd18a117730e7a851bc369071cd843
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 14:50:03 2023 -0600
+
+    Creando pagina somos
+
+commit 75bf6bae1f10689fef8190df7726ac3e8cedddf9
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 14:33:24 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 45b0a277ad69af334b889c7bc2dd8f311c267db3
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 14:15:58 2023 -0600
+
+    Se cambió el script
+
+commit 5b2edf366027ec72c92539b5a404c41e5b5f2cf5
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 13:39:00 2023 -0600
+
+    se creó una clase de estilos
+
+commit 4912954aae657fa2e1d204a58f2fe1fb12158619
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 13:34:46 2023 -0600
+
+    Se cambió el HTML
+
+commit 6ee958e9c7b3b0b9f38ad3be497360ce7fa7525c
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 13:29:00 2023 -0600
+
+    Creando licensia del repositorio
+
+commit 8c305e4ef26634e6f9ed9e02ba7ee2a5485de19c
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 13:18:44 2023 -0600
+
+    se agregaron cambios
+
+commit 3d3751c813f4643b0b6274d22fdf5875597ca347
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 11:44:54 2023 -0600
+
+    Agregando contenido al readme
+
+commit 2b604b6e2316084489be08c8ad2120ba0f61c772
+Author: Oliver-Carm <81182901+Oliver-Carm@users.noreply.github.com>
+Date:   Tue Jun 6 11:38:37 2023 -0600
+
+    Primer commit
